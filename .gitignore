@@ -204,6 +204,7 @@ $RECYCLE.BIN/
 SourceArt/**/*.png
 SourceArt/**/*.tga
 *.uasset
+Content/Maps/
 
 # Binary Files
 Binaries/*
